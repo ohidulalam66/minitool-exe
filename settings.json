@@ -1,0 +1,32 @@
+{
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.cursorBlinking": "expand",
+  "editor.fontSize": 18,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.CustomBrowser": "chrome",
+  "terminal.integrated.fontSize": 16,
+  "gitlens.views.showRelativeDateMarkers": false,
+  "editor.formatOnSave": true,
+  "editor.wordWrap": "on",
+  "tailwindCSS.emmetCompletions": true,
+  "debug.console.fontSize": 18,
+  "workbench.iconTheme": "material-icon-theme",
+  "vsicons.dontShowNewVersionMessage": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.fontFamily": "'operator mono','Fira Code','cascadia code',Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.inlineSuggest.enabled": true,
+  "workbench.colorTheme": "Learn with Sumit Theme - Dracula version",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "code-runner.runInTerminal": true,
+  "settingsSync.ignoredSettings": [],
+  "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+  "window.zoomLevel": -1,
+  "[c]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "json.schemas": []
+}
